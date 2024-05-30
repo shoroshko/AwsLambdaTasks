@@ -12,7 +12,6 @@
   "event_sources": [],
   "env_variables": {},
   "publish_version": false,
-  "alias": "${lambdas_alias_name}",
   "url_config": {"auth_type": "NONE"},
   "ephemeral_storage": 512,
   "logs_expiration": "${logs_expiration}"
